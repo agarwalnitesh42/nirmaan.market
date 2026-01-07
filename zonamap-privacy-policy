@@ -1,8 +1,8 @@
 Zonamap Privacy Policy
 
-Last Updated: May 24, 2025
+Last Updated: January 07, 2026
 
-At Zonamap, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, store, and protect your personal information when you use our mobile application (“App”) and related services (collectively, the “Services”). By using our Services, you agree to the practices described in this policy. If you do not agree, please do not use the App.
+At Zonamap, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, store, and protect your personal information when you use our mobile application ("App") and related services (collectively, the "Services"). By using our Services, you agree to the practices described in this policy. If you do not agree, please do not use the App.
 
 1. Information We Collect
 We collect information to provide and improve our Services. The types of information we may collect include:
@@ -11,12 +11,25 @@ a. Personal Information
 Contact Information: Name, email address, phone number, or other identifiers you provide when creating an account or contacting us.
 Location Data: With your explicit consent, we may collect precise or approximate location data to provide location-based property insights and real estate services.
 User-Provided Data: Information you input into the App, such as property preferences, search history, or documents uploaded for real estate services.
+
 b. Non-Personal Information
 Device Information: Device type, operating system, unique device identifiers, IP address, and crash reports to ensure App functionality.
 Usage Data: Information about how you interact with the App, such as pages visited, features used, and time spent on the App.
 Cookies and Similar Technologies: We use cookies, web beacons, or similar technologies to enhance your experience, analyze usage, and deliver personalized content.
+
 c. Third-Party Data
-If you connect third-party accounts (e.g., Google or social media) to the App, we may collect information like your profile details, subject to the third party’s privacy policies.
+If you connect third-party accounts (e.g., Google or social media) to the App, we may collect information like your profile details, subject to the third party's privacy policies.
+
+d. Public Government Data
+The App uses publicly accessible data from official government websites to provide property and land-related information. These sources include:
+- https://bhunaksha.rajasthan.gov.in/
+- https://jansoochna.rajasthan.gov.in/
+- https://apnakhata.rajasthan.gov.in/
+- https://gis.rajasthan.gov.in/
+- https://webgirdawari.rajasthan.gov.in/Web/GirdawariDoc
+
+This public data is used solely to enhance the accuracy and reliability of the property insights and real estate services we provide. We do not modify or misrepresent information obtained from these official sources.
+
 2. How We Use Your Information
 We use the collected information to provide, maintain, and improve our Services. Specific uses include:
 
@@ -26,6 +39,7 @@ Communication: Sending account-related notifications, responding to inquiries, o
 Personalization: Tailoring content, such as property suggestions, based on your preferences and location.
 Analytics: Measuring App performance and understanding user behavior through aggregated, anonymized data.
 Legal Compliance: Complying with applicable laws, regulations, or legal requests.
+
 3. How We Share Your Information
 We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:
 
@@ -33,12 +47,14 @@ Service Providers: With trusted third-party vendors (e.g., cloud hosting, analyt
 Legal Obligations: When required by law, such as responding to subpoenas, court orders, or government requests.
 Business Transfers: In the event of a merger, acquisition, or sale of assets, your information may be transferred to the acquiring entity, with notice to you.
 With Your Consent: When you explicitly agree to share your information with third parties, such as for integrated real estate services.
+
 4. Data Security
 We implement industry-standard security measures to protect your information, including:
 
 Encryption: Using advanced encryption protocols (e.g., SSL/TLS) to secure data transmission and storage.
 Access Controls: Restricting access to your data to authorized personnel only.
 Secure Servers: Hosting data on reputable, secure cloud platforms. While we strive to protect your information, no system is completely secure. If you suspect unauthorized access to your account, please contact us immediately at privacy@zonamap.in.
+
 5. Your Rights and Choices
 You have control over your personal information. Depending on your jurisdiction (e.g., GDPR for EU residents, CCPA for California residents), you may have the following rights:
 
@@ -48,6 +64,7 @@ Deletion: Request deletion of your personal data, subject to legal retention req
 Opt-Out: Opt out of personalized advertising or data sharing (where applicable).
 Data Portability: Request your data in a structured, machine-readable format.
 Restrict Processing: Limit how we process your data in certain circumstances.
+
 To exercise these rights, contact us at privacy@zonamap.in. We will respond within the timeframes required by law (e.g., 30 days for GDPR requests).
 
 6. Cookies and Tracking Technologies
@@ -60,7 +77,7 @@ Preference Cookies: Remember your settings and preferences for a personalized ex
 7. Location Data
 If you enable location services, we collect and process your location data to provide property insights and real estate services. You can disable location access at any time through your device settings, though this may affect certain App functionalities.
 
-8. Children’s Privacy
+8. Children's Privacy
 Our Services are not intended for individuals under 16 years of age. We do not knowingly collect personal information from children under 16. If we learn that we have collected such information, we will delete it promptly. Contact us at privacy@zonamap.in if you believe we have inadvertently collected data from a minor.
 
 9. International Data Transfers
@@ -77,13 +94,13 @@ Data subject to legal obligations (e.g., tax records) is retained as required by
 The App may contain links to third-party websites or services. We are not responsible for their privacy practices. We encourage you to review the privacy policies of any third-party services you access through our App.
 
 12. Changes to This Privacy Policy
-We may update this Privacy Policy to reflect changes in our practices or legal requirements. We will notify you of significant changes via email, in-app notifications, or by updating the “Last Updated” date at the top of this policy. Your continued use of the App after such changes constitutes acceptance of the updated policy.
+We may update this Privacy Policy to reflect changes in our practices or legal requirements. We will notify you of significant changes via email, in-app notifications, or by updating the "Last Updated" date at the top of this policy. Your continued use of the App after such changes constitutes acceptance of the updated policy.
 
 13. Contact Us
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
 Zonamap
 
-Email: nitesh.agarwal@zonamap.in
+Email: support@zonamap.in
 
 We aim to respond to all inquiries within 30 days.
