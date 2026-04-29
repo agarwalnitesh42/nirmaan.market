@@ -1,113 +1,495 @@
-Zonamap Privacy Policy
+# Zona — Legal & Policy Document
 
-Last Updated: January 07, 2026
+**Operated by:** Noble Mace Ventures (Sole Proprietorship)
+**Registered Address:** 93, Subhash Nagar, NEB, Alwar, Rajasthan, 301001, India
+**Application:** Zona (also referred to as "Zonamap")
+**Effective Date:** April 29, 2026
+**Last Updated:** April 29, 2026
 
-At Zonamap, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, store, and protect your personal information when you use our mobile application ("App") and related services (collectively, the "Services"). By using our Services, you agree to the practices described in this policy. If you do not agree, please do not use the App.
+---
 
-1. Information We Collect
-We collect information to provide and improve our Services. The types of information we may collect include:
+This document contains three sections that together govern your use of the Zona mobile application and related services:
 
-a. Personal Information
-Contact Information: Name, email address, phone number, or other identifiers you provide when creating an account or contacting us.
-Location Data: With your explicit consent, we may collect precise or approximate location data to provide location-based property insights and real estate services.
-User-Provided Data: Information you input into the App, such as property preferences, search history, or documents uploaded for real estate services.
+1. **Privacy Policy** — How we handle your information
+2. **Commercial Use & Pricing Policy** — What is free, what is paid, and why
+3. **Terms of Service** — The rules of using Zona
 
-b. Non-Personal Information
-Device Information: Device type, operating system, unique device identifiers, IP address, and crash reports to ensure App functionality.
-Usage Data: Information about how you interact with the App, such as pages visited, features used, and time spent on the App.
-Cookies and Similar Technologies: We use cookies, web beacons, or similar technologies to enhance your experience, analyze usage, and deliver personalized content.
+By using Zona, you agree to all three sections of this document. If you do not agree with any part, please do not use the application.
 
-c. Third-Party Data
-If you connect third-party accounts (e.g., Google or social media) to the App, we may collect information like your profile details, subject to the third party's privacy policies.
+For all questions, contact us at **support@zonamap.in**.
 
-d. Public Government Data
-The App uses publicly accessible data from official government websites to provide property and land-related information. These sources include:
-- https://bhunaksha.rajasthan.gov.in/
-- https://jansoochna.rajasthan.gov.in/
-- https://apnakhata.rajasthan.gov.in/
-- https://gis.rajasthan.gov.in/
-- https://webgirdawari.rajasthan.gov.in/Web/GirdawariDoc
+---
 
-Information We Collect
-Images / Screenshots (User Content): If you use features like map export/share, the app may create an image (e.g., a map screenshot) and store it on your device and/or share it through apps you choose (e.g., WhatsApp). We do not upload these images to our servers unless you explicitly choose a feature that requires uploading.
+# PART 1 — PRIVACY POLICY
 
-This public data is used solely to enhance the accuracy and reliability of the property insights and real estate services we provide. We do not modify or misrepresent information obtained from these official sources.
+## Summary of Key Points
 
-2. How We Use Your Information
-We use the collected information to provide, maintain, and improve our Services. Specific uses include:
+This summary highlights the important parts of how Zona handles your information. Detailed sections follow below.
 
-Service Delivery: Providing property insights, real estate document access, and personalized recommendations.
-App Improvement: Analyzing usage patterns to enhance App functionality and user experience.
-Communication: Sending account-related notifications, responding to inquiries, or providing updates about our Services.
-Personalization: Tailoring content, such as property suggestions, based on your preferences and location.
-Analytics: Measuring App performance and understanding user behavior through aggregated, anonymized data.
-Legal Compliance: Complying with applicable laws, regulations, or legal requests.
+- **Who we are:** Zona is a mobile application operated by Noble Mace Ventures, a sole proprietorship registered in Alwar, Rajasthan, India.
+- **Personal information we collect:** Name, mobile number, district preferences, saved properties, device information, and usage data. We do not collect your Aadhaar, PAN, email, financial card data, or contacts list.
+- **Sensitive personal data:** We do not knowingly collect sensitive personal data such as biometric information, financial information beyond what payment processors handle, or health information.
+- **Government records:** Zona helps you access publicly available land records from official government portals. The actual data fetch happens directly from your device to the government website. We do not bulk-store government databases.
+- **How we use your information:** To provide the app, authenticate you, deliver location-based property insights, process payments for premium features, send notifications, and improve our service.
+- **Who we share your information with:** Only trusted service providers (Firebase/Google, Render, Razorpay, Mapbox, Google Cloud Storage) who help operate the app, and only when legally required.
+- **Your rights:** Under India's DPDP Act 2023, you can access, correct, delete, or restrict the use of your personal data. You may also nominate someone to act on your behalf.
+- **Grievance Officer:** Reach our Grievance Officer at **grievance@zonamap.in** for any complaints. We respond within 30 days.
 
-3. How We Share Your Information
-We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:
+---
 
-Service Providers: With trusted third-party vendors (e.g., cloud hosting, analytics, or customer support providers) who assist in operating the App, bound by strict confidentiality agreements.
-Legal Obligations: When required by law, such as responding to subpoenas, court orders, or government requests.
-Business Transfers: In the event of a merger, acquisition, or sale of assets, your information may be transferred to the acquiring entity, with notice to you.
-With Your Consent: When you explicitly agree to share your information with third parties, such as for integrated real estate services.
+## 1. About Zona and Noble Mace Ventures
 
-Sharing via apps you choose: When you use the share feature, the image/document is shared with the third‑party app/service you select (e.g., WhatsApp), and their privacy policy applies.
+Zona is a mobile application that helps users in India — primarily in Rajasthan and Haryana — access publicly available land and property information from official government sources, along with proprietary tools we have built on top of that data.
 
-4. Data Security
-We implement industry-standard security measures to protect your information, including:
+Zona is operated by **Noble Mace Ventures**, a sole proprietorship registered at 93, Subhash Nagar, NEB, Alwar, Rajasthan, 301001, India. Noble Mace Ventures also operates a separate application called **LandInvest**, which has its own privacy policy.
 
-Encryption: Using advanced encryption protocols (e.g., SSL/TLS) to secure data transmission and storage.
-Access Controls: Restricting access to your data to authorized personnel only.
-Secure Servers: Hosting data on reputable, secure cloud platforms. While we strive to protect your information, no system is completely secure. If you suspect unauthorized access to your account, please contact us immediately at privacy@zonamap.in.
+This Privacy Policy applies only to the Zona application.
 
-5. Your Rights and Choices
-You have control over your personal information. Depending on your jurisdiction (e.g., GDPR for EU residents, CCPA for California residents), you may have the following rights:
+## 2. Information We Collect
 
-Access: Request a copy of the personal information we hold about you.
-Correction: Update or correct inaccurate or outdated information.
-Deletion: Request deletion of your personal data, subject to legal retention requirements.
-Opt-Out: Opt out of personalized advertising or data sharing (where applicable).
-Data Portability: Request your data in a structured, machine-readable format.
-Restrict Processing: Limit how we process your data in certain circumstances.
+### 2.1 Information You Provide
 
-To exercise these rights, contact us at privacy@zonamap.in. We will respond within the timeframes required by law (e.g., 30 days for GDPR requests).
+When you register and use Zona, we collect:
 
-6. Cookies and Tracking Technologies
-We use cookies and similar technologies to improve your experience and analyze App usage. You can manage cookie preferences through your device or browser settings. Types of cookies we use include:
+- **Identity information:** Your name and mobile number (used for OTP-based authentication)
+- **Preferences:** District(s) you select, saved properties, search history, and map preferences
+- **Communications:** Messages you send to our support team
 
-Essential Cookies: Necessary for the App to function properly.
-Analytics Cookies: Help us understand how users interact with the App.
-Preference Cookies: Remember your settings and preferences for a personalized experience. You can disable cookies, but this may limit certain App features.
+### 2.2 Information Collected Automatically
 
-7. Location Data
-If you enable location services, we collect and process your location data to provide property insights and real estate services. You can disable location access at any time through your device settings, though this may affect certain App functionalities.
+When you use the app, we automatically collect:
 
-8. Children's Privacy
-Our Services are not intended for individuals under 16 years of age. We do not knowingly collect personal information from children under 16. If we learn that we have collected such information, we will delete it promptly. Contact us at privacy@zonamap.in if you believe we have inadvertently collected data from a minor.
+- **Device information:** Device model, operating system version, unique device identifiers, and app version
+- **Usage data:** Features you use, screens you visit, time spent on the app, and crash reports
+- **Approximate location:** When you grant permission, to show locally relevant land records and map data
+- **Network information:** IP address and network type (used for fraud prevention and analytics)
 
-9. International Data Transfers
-Zonamap operates globally, and your information may be transferred to, stored, or processed in countries outside your jurisdiction, including India or the United States. We ensure that such transfers comply with applicable data protection laws, using mechanisms like Standard Contractual Clauses where required.
+### 2.3 Information Generated by App Features
 
-10. Data Retention
-We retain your personal information only for as long as necessary to fulfill the purposes outlined in this policy or as required by law. For example:
+- **Map exports and screenshots:** When you use share or export features, the app may generate an image (such as a map screenshot) and store it on your device. These images are not uploaded to our servers unless a feature explicitly requires it. When you share through another app (such as WhatsApp), that app's privacy policy applies to the shared image.
+- **Custom Naksha files:** When you generate a custom naksha (map) using premium features, the resulting file may be stored on our servers temporarily for delivery to your device.
 
-Account data is retained while your account is active.
-Usage data may be retained in anonymized form for analytics.
-Data subject to legal obligations (e.g., tax records) is retained as required by law. When data is no longer needed, we securely delete or anonymize it.
+### 2.4 What We Do NOT Collect
 
-Exported images: Saved images remain on your device until you delete them.
+We want to be explicit about what we do not collect:
 
-11. Third-Party Links and Services
-The App may contain links to third-party websites or services. We are not responsible for their privacy practices. We encourage you to review the privacy policies of any third-party services you access through our App.
+- We do not collect your **Aadhaar number, PAN, voter ID, or other government ID numbers**
+- We do not collect your **email address** unless you provide it for support
+- We do not access your **contacts list, photos library, SMS messages, or call logs**
+- We do not collect or store your **payment card numbers, UPI IDs, or bank account details** (these are handled directly by Razorpay)
+- We do not collect **biometric data** of any kind
 
-12. Changes to This Privacy Policy
-We may update this Privacy Policy to reflect changes in our practices or legal requirements. We will notify you of significant changes via email, in-app notifications, or by updating the "Last Updated" date at the top of this policy. Your continued use of the App after such changes constitutes acceptance of the updated policy.
+## 3. Government Data Access — How Zona Works
 
-13. Contact Us
-If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
+This section explains in detail how Zona accesses government land records, because we believe transparency about this matters.
 
-Zonamap
+### 3.1 Public Records Used by Zona
 
-Email: support@zonamap.in
+Zona helps you access publicly available data from official government portals, including:
 
-We aim to respond to all inquiries within 30 days.
+- **Apnakhata** (https://apnakhata.rajasthan.gov.in/) — Jamabandi and ROR records for Rajasthan
+- **Bhunaksha Rajasthan** (https://bhunaksha.rajasthan.gov.in/) — Cadastral maps for Rajasthan
+- **Rajdharaa** (https://gis.rajasthan.gov.in/) — GIS boundary data for Rajasthan
+- **Web Girdawari** (https://webgirdawari.rajasthan.gov.in/) — Crop and cultivation records
+- **Jansoochna** (https://jansoochna.rajasthan.gov.in/) — Public information portal
+- **HSAC** (https://hsac.org.in/) — Cadastral data for Haryana
+- **Other state government land records portals** as we expand to new states
+
+These records are designated as **public records** under the Rajasthan Land Revenue Act, equivalent state legislation in other states, and the Right to Information Act, 2005. Citizens have a statutory right to access this information.
+
+### 3.2 How the Data Reaches You
+
+For most government data, the data fetch happens **directly between your device and the government portal**. Zona acts as an interface that helps you access information you are already entitled to access. We do not maintain bulk copies of government databases on our servers.
+
+In certain cases, our backend servers fetch and process this data — for example, when generating custom nakshas, performing reverse geocoding, or running market intelligence aggregations for our Dominate product. In these cases, we cache only what is necessary to deliver the requested feature, and we do not redistribute raw government records as bulk data products.
+
+### 3.3 Accuracy and Authenticity
+
+Government records may contain errors, be out of date, or have been recently modified by the issuing authority. Zona displays this information as received from the source, and **we do not certify, verify, or guarantee the accuracy of any government record**. Always verify critical information directly with the relevant government office before making property or financial decisions.
+
+### 3.4 Removal Requests for Land Record Subjects
+
+If you appear in publicly available land records and wish to request that your information be removed from Zona's display layer (note: this does not affect the underlying government records, only Zona's display), please contact our Grievance Officer at **grievance@zonamap.in**. We will evaluate such requests on a case-by-case basis in accordance with the DPDP Act 2023 and applicable law.
+
+## 4. How We Use Your Information
+
+We use your information to:
+
+- **Provide the service:** Deliver land record information, maps, naksha, and property insights
+- **Authenticate you:** Verify your mobile number via OTP and maintain your account
+- **Personalize content:** Show records relevant to your selected districts and preferences
+- **Process payments:** Handle transactions for premium features through Razorpay
+- **Communicate with you:** Send service-related notifications and respond to support inquiries
+- **Improve the app:** Analyze usage patterns, fix bugs, and enhance features
+- **Ensure security:** Detect fraud, prevent abuse, and protect our service
+- **Comply with law:** Respond to legal requests and meet regulatory obligations
+
+We process your information based on the following legal grounds under the DPDP Act 2023:
+
+- Your **consent** (for optional data like location and notifications)
+- **Performance of contract** (to deliver the services you signed up for)
+- **Legitimate use** (for fraud prevention, security, and service improvement)
+- **Legal obligation** (when required by Indian law)
+
+## 5. How We Share Your Information
+
+We do not sell, rent, or trade your personal information.
+
+We share information only with:
+
+### 5.1 Service Providers
+
+| Provider | Purpose | Data Handled |
+|----------|---------|--------------|
+| Firebase (Google) | Authentication, analytics, crash reporting, push notifications | Device ID, usage data, mobile number |
+| Google Cloud Storage | Storing map files, custom nakshas, and boundary data | Map files, generated content |
+| Render | Hosting our backend servers | API requests, processed data |
+| Razorpay | Payment processing | Payment data (handled directly by Razorpay) |
+| Mapbox | Map rendering | Approximate location, map interactions |
+
+These providers are bound by their own privacy policies and contractual obligations to protect your data.
+
+### 5.2 Legal Disclosures
+
+We may disclose your information when required to:
+
+- Comply with applicable law, court orders, or government requests
+- Enforce our Terms of Service
+- Protect the rights, safety, or property of Zona, our users, or the public
+- Investigate or prevent fraud or security incidents
+
+### 5.3 Business Transfers
+
+If Noble Mace Ventures is sold, merged, or restructured, your information may be transferred to the acquiring entity. We will notify you of such transfers and the acquiring entity will be bound by an equivalent privacy policy.
+
+### 5.4 Sharing You Initiate
+
+When you use sharing features (e.g., share a naksha via WhatsApp), the content is shared with the third-party app you select, and that app's privacy policy applies.
+
+## 6. Data Storage and Security
+
+### 6.1 Where Your Data is Stored
+
+Personal data of Indian users is primarily processed and stored in India, including:
+
+- Firebase Firestore (asia-south1 region)
+- Google Cloud Storage (asia-south1 region)
+- Render hosting (subject to their available regions)
+
+Some service providers may process data outside India for specific functions (such as global analytics aggregation by Firebase). Such transfers comply with the DPDP Act 2023 and applicable cross-border data transfer rules.
+
+### 6.2 Security Measures
+
+We implement reasonable security measures including:
+
+- **Encryption in transit:** All API communication uses HTTPS/TLS
+- **Encryption at rest:** Data on our cloud providers is encrypted at the storage layer
+- **Access controls:** Only authorized personnel can access user data, and access is logged
+- **Authentication:** OTP-based authentication and session token management
+- **Regular reviews:** We periodically review our security practices
+
+While we take reasonable steps to protect your data, no system is perfectly secure. You are responsible for keeping your device and account credentials safe.
+
+### 6.3 Data Breach Notification
+
+In accordance with the DPDP Act 2023, if we become aware of a personal data breach affecting your information, we will notify you and the Data Protection Board of India within the timelines prescribed by law.
+
+## 7. Data Retention
+
+We retain your personal data only as long as necessary:
+
+- **Account data:** Retained while your account is active
+- **Usage and analytics data:** Up to 24 months in identifiable form, then anonymized
+- **Payment records:** Retained for 7 years to comply with Indian tax and accounting law
+- **Support communications:** Retained for 24 months
+- **Crash and error logs:** Retained for 90 days
+
+When you delete your account, we delete or anonymize your personal data within 90 days, except where retention is required by law.
+
+## 8. Your Rights Under the DPDP Act 2023
+
+As an Indian user, you have the following rights:
+
+- **Right to access:** Request a summary of your personal data we hold
+- **Right to correction:** Correct inaccurate or outdated information
+- **Right to erasure:** Delete your account and personal data (subject to legal retention requirements)
+- **Right to nominate:** Designate someone to exercise your rights in case of incapacity or death
+- **Right to grievance redressal:** Raise complaints to our Grievance Officer (see Section 11)
+- **Right to withdraw consent:** Withdraw any consent you previously provided
+
+If you are located outside India, additional rights under your local law (such as GDPR or CCPA) may also apply, including data portability and the right to object to processing. Contact us to exercise these rights.
+
+## 9. Children's Privacy
+
+Zona is not directed to children under 18 years of age. In accordance with the DPDP Act 2023, we treat anyone under 18 as a child for data protection purposes.
+
+We do not knowingly collect personal data from children under 18 without verifiable parental consent. If you believe we have inadvertently collected such data, please contact our Grievance Officer immediately, and we will delete it.
+
+## 10. Cookies and Tracking
+
+The Zona mobile application does not use traditional web cookies. However, we use similar technologies including:
+
+- **Local storage** for app preferences and session data
+- **Device identifiers** for analytics and crash reporting
+- **Firebase analytics tokens** for usage tracking
+
+You can reset advertising and analytics identifiers through your device settings.
+
+## 11. Grievance Officer
+
+In compliance with the DPDP Act 2023 and the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, we have appointed a Grievance Officer.
+
+**Grievance Officer Contact:**
+**Email:** grievance@zonamap.in
+**Address:** Noble Mace Ventures, 93, Subhash Nagar, NEB, Alwar, Rajasthan, 301001, India
+**Response time:** Within 30 days of receiving your complaint
+
+You can contact the Grievance Officer for:
+
+- Complaints about how we handle your personal data
+- Requests to exercise your rights under the DPDP Act
+- Reporting violations of this Privacy Policy
+- Requests for removal of land record information from Zona's display
+
+If you are not satisfied with the resolution, you may approach the **Data Protection Board of India** or any other relevant regulatory authority.
+
+## 12. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When we do:
+
+- The "Last Updated" date at the top will be revised
+- For material changes, we will notify you via in-app notification or push notification
+- Your continued use after changes take effect indicates acceptance
+
+We encourage you to review this policy periodically.
+
+---
+
+# PART 2 — COMMERCIAL USE & PRICING POLICY
+
+## 1. Our Pricing Philosophy
+
+Zona is built on a clear principle: **public records should remain free, and we charge only for the proprietary tools and features we have built on top of those records.**
+
+We do not believe in monetizing access to data that already belongs to the public. The information published by government land record portals is — and should remain — accessible to every citizen who is entitled to it under Indian law. Zona's role is to make that access easier, faster, and more useful, not to put public records behind a paywall.
+
+## 2. Free Features (Always Free)
+
+The following features are free to all Zona users and will remain free:
+
+- **Public land record access:** Viewing jamabandi, ROR (Record of Rights), khasra information, and ownership data sourced from official government portals
+- **Cadastral map viewing:** Viewing official naksha (cadastral maps) as published by government sources
+- **Search:** Searching by khasra number, owner name, village, district, or other identifiers available in public records
+- **Basic boundary visualization:** Viewing land boundaries on a map interface
+- **Account and authentication:** Creating an account, OTP login, and basic profile management
+- **Saved properties:** Bookmarking properties for later reference
+- **Multi-state support:** Access to records from any state Zona supports, at no additional cost
+
+We may introduce reasonable usage limits (such as daily search quotas) to prevent automated abuse, but these limits will not require payment to lift for normal individual use.
+
+## 3. Paid Features (Zona's Proprietary Tools)
+
+We charge only for features and tools that **we have designed, engineered, and built on top of public data** — features that do not exist on government portals and that represent our independent intellectual property.
+
+Currently paid or planned-paid features include:
+
+- **Custom Naksha Generation:** Our SVG-based naksha rendering system, which produces clean, shareable, and customizable cadastral maps with branding and overlays. The underlying boundary data is public; the rendering, layout engine, styling, and customization tools are Zona's own work.
+- **Location-to-Khasra Reverse Lookup:** Our reverse geocoding system that identifies which khasra a GPS coordinate falls into. This feature uses our own spatial indexing, processing pipeline, and matching algorithms.
+- **Live On-Ground Measurements:** Our measurement tools that use device GPS to measure plots and distances on-site, with our proprietary calibration and accuracy enhancements.
+- **Future Features:** As Zona evolves, additional tools we build (such as branded property card generation, advanced market intelligence, custom report generation, and similar) may be offered as paid features.
+
+## 4. What We Will Never Charge For
+
+To be clear, we commit to never charging for:
+
+- **The underlying public records themselves** (jamabandi, khasra, naksha, ROR, etc.)
+- **Access to information that government portals provide free of cost**
+- **Search of basic public data**
+- **Account creation or basic app access**
+
+## 5. How Payments Work
+
+- All payments are processed by **Razorpay**, a regulated Indian payment service provider.
+- We do not store or have access to your card numbers, UPI IDs, or bank account details.
+- Prices are displayed in Indian Rupees (INR) inclusive of applicable taxes unless stated otherwise.
+- A receipt will be provided after each successful payment.
+
+## 6. Refunds
+
+- **Custom Naksha and similar generated outputs:** Once generated and delivered, these are non-refundable due to the digital nature of the deliverable.
+- **Subscription features:** If a subscription is cancelled, you will retain access until the end of the current billing period. Pro-rata refunds are not provided unless required by law.
+- **Failed transactions:** If a payment is debited but the feature is not delivered, the amount will be refunded automatically by Razorpay within 5–7 business days.
+- **Disputes:** For any payment-related dispute, contact **support@zonamap.in** within 7 days of the transaction.
+
+## 7. Pricing Changes
+
+We may revise pricing for paid features. Changes will be communicated through:
+
+- In-app notifications for significant price changes
+- Updated effective date on this policy
+
+For active subscribers, price changes apply only to renewal periods, not to the current billing cycle.
+
+---
+
+# PART 3 — TERMS OF SERVICE
+
+## 1. Acceptance of Terms
+
+By creating an account or using Zona, you agree to these Terms of Service. If you do not agree, you must not use the application.
+
+These Terms form a legally binding agreement between you and **Noble Mace Ventures** (proprietor of Zona).
+
+## 2. Eligibility
+
+To use Zona, you must:
+
+- Be at least 18 years of age
+- Be legally capable of entering into a binding contract under Indian law
+- Not be barred from using such services under applicable law
+- Provide accurate and current information during registration
+
+## 3. Your Account
+
+- You are responsible for maintaining the confidentiality of your account and for all activities under your account.
+- You must provide a valid mobile number for OTP-based authentication.
+- You must notify us immediately at **support@zonamap.in** of any unauthorized use of your account.
+- We may suspend or terminate accounts that violate these Terms.
+
+## 4. Acceptable Use
+
+When using Zona, you agree NOT to:
+
+- Use the app for any unlawful purpose or in violation of Indian law
+- Attempt to scrape, reverse engineer, or extract data from Zona itself in an automated manner
+- Use the app to harass, defame, or harm others
+- Resell, redistribute, or commercially exploit data accessed through Zona without our written permission, except for personal use
+- Misrepresent yourself or impersonate another person
+- Attempt to circumvent any security or access controls
+- Use the app to make decisions that affect others (such as property transactions involving third parties) without independent verification of the underlying data
+
+## 5. Nature of Information Provided
+
+### 5.1 Not Legal Title Verification
+
+**Zona is not a substitute for legal title verification, due diligence, or professional advice.** The information displayed in Zona is sourced from publicly available government records and is provided for informational purposes only.
+
+### 5.2 Accuracy Disclaimer
+
+We make no representation or warranty regarding the:
+
+- Accuracy of government records displayed in the app
+- Currency or up-to-date status of records
+- Completeness of information
+- Suitability for any specific purpose, including property purchase decisions
+
+Government records may contain errors, omissions, or outdated information. **Always verify critical information directly with the relevant Tehsil, Sub-Registrar's office, Patwari, or other competent authority** before making any property, legal, or financial decision.
+
+### 5.3 No Professional Advice
+
+Nothing in Zona constitutes legal advice, financial advice, real estate advice, or professional consulting. For such matters, consult a qualified professional (advocate, chartered accountant, registered real estate agent, or licensed surveyor).
+
+## 6. Intellectual Property
+
+### 6.1 Zona's Intellectual Property
+
+The Zona application, including its software, design, user interface, custom naksha rendering, location-to-khasra system, measurement tools, and all original content, is the intellectual property of **Noble Mace Ventures** and is protected by Indian copyright law and other applicable laws.
+
+You may not:
+
+- Copy, modify, or create derivative works of Zona's software
+- Reverse engineer or decompile the application
+- Remove or alter any proprietary notices
+
+### 6.2 Government Records
+
+Government records displayed in Zona remain the property of the issuing government authority. Zona does not claim ownership of underlying public records.
+
+### 6.3 User-Generated Content
+
+Any content you create using Zona (such as bookmarks, notes, or shared maps) remains yours. By using sharing features, you grant Zona a limited license to process and deliver that content as needed for the requested feature.
+
+## 7. Limitation of Liability
+
+To the maximum extent permitted by Indian law:
+
+- **Noble Mace Ventures, its proprietor, employees, and contractors** shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of Zona.
+- This includes (but is not limited to) damages from: incorrect government data, missed records, app downtime, third-party service failures, financial loss from property decisions, or loss of data.
+- Our total liability for any claim related to Zona shall not exceed the amount you have paid to us in the **12 months preceding the claim**, or ₹1,000 (Indian Rupees One Thousand), whichever is greater.
+
+This limitation applies regardless of the legal theory of the claim (contract, tort, statute, or otherwise) and even if we have been advised of the possibility of such damages.
+
+## 8. Indemnification
+
+You agree to indemnify and hold harmless Noble Mace Ventures, its proprietor, employees, and contractors from any claim, demand, or damages (including reasonable attorney's fees) arising from:
+
+- Your violation of these Terms
+- Your misuse of Zona
+- Your violation of any law or third-party rights
+- Decisions you make based on information accessed through Zona
+
+## 9. Service Availability
+
+- Zona is provided on an "as is" and "as available" basis.
+- We do not guarantee uninterrupted access. Service may be temporarily unavailable due to maintenance, technical issues, or factors outside our control (including outages of government portals from which we source data).
+- We may modify, suspend, or discontinue features at any time, with reasonable notice for paid features.
+
+## 10. Termination
+
+### 10.1 By You
+
+You may terminate your account at any time by contacting **support@zonamap.in** or using the in-app account deletion feature (when available).
+
+### 10.2 By Us
+
+We may suspend or terminate your account, with or without notice, if:
+
+- You violate these Terms
+- We are required to do so by law
+- Your use of the app creates risk for other users or the service
+- You engage in fraud or abuse
+
+### 10.3 Effect of Termination
+
+On termination, your right to use Zona ends. Provisions related to liability, indemnification, intellectual property, and dispute resolution survive termination.
+
+## 11. Governing Law and Dispute Resolution
+
+- These Terms are governed by the laws of **India**.
+- Any dispute arising out of or in connection with these Terms shall be subject to the **exclusive jurisdiction of the courts in Alwar, Rajasthan**.
+- Before initiating legal proceedings, you agree to first attempt to resolve the dispute by contacting our Grievance Officer at **grievance@zonamap.in**.
+
+## 12. Changes to These Terms
+
+We may update these Terms from time to time. Material changes will be communicated through in-app notifications. Continued use of Zona after changes take effect constitutes acceptance of the revised Terms. The "Last Updated" date at the top of this document reflects the most recent revision.
+
+## 13. Severability
+
+If any provision of these Terms is found to be unenforceable, the remaining provisions will continue in full force and effect.
+
+## 14. Entire Agreement
+
+This document (Privacy Policy + Commercial Use Policy + Terms of Service) constitutes the entire agreement between you and Noble Mace Ventures regarding Zona, and supersedes any prior agreements or communications.
+
+---
+
+# Contact Information
+
+For all matters related to Zona, contact us:
+
+| Purpose | Contact |
+|---------|---------|
+| General support | support@zonamap.in |
+| Privacy and data rights | grievance@zonamap.in |
+| Grievance redressal (DPDP Act) | grievance@zonamap.in |
+| Payment and billing | support@zonamap.in |
+| Legal notices | grievance@zonamap.in |
+
+**Noble Mace Ventures**
+93, Subhash Nagar, NEB
+Alwar, Rajasthan, 301001
+India
+
+---
+
+*Document last updated: April 29, 2026*
