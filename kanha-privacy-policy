@@ -1,0 +1,142 @@
+# Privacy Policy — Talking Krishna
+
+**Effective date:** 20 October 2026
+**App:** Talking Krishna (Android package `com.noblemace.laddugopal`)
+**Provided by:** Noble Mace Ventures, Alwar, Rajasthan, India ("we", "us")
+**Contact:** [SUPPORT EMAIL] · WhatsApp: [WHATSAPP NUMBER]
+
+Talking Krishna lets you talk with little Kanha (Bal Gopal) — live, in his own voice — and do daily seva, shringar, bhog and aarti with him. This policy explains what information the app uses, why, who helps us process it, and the choices you have. We collect only what the app needs to work, and we never sell your personal information.
+
+---
+
+## 1. Information we collect
+
+### a) Information you give us
+| What | Why |
+|---|---|
+| **Your name** (and the names of family profiles you add, e.g. "Maa", "Pihu") | So Kanha can greet and talk to each person by name. |
+| **Profile type** — adult ("Maiya") or child ("Bachcha") | Kanha speaks differently to children, and child-safety limits apply to child profiles. |
+| **Mobile number and a 4-digit PIN** (only if you create an account / log in) | To let you get your account, minutes and orders back on a new phone. The PIN is stored only as a one-way cryptographic hash — we cannot see it. |
+| **Delivery address and phone number** (only when you order from Kanha ki Dukaan) | To deliver your order. |
+| **Language choice, seva reminders, alarm time, seva pran** | To run these features the way you set them. |
+
+### b) Your voice during a live talk ("Baat karo")
+- When you press the mic and talk, your voice is streamed **live** to our voice service so Kanha can hear you, understand you and answer.
+- Your voice is turned into text, the text is used to write Kanha's reply, and the reply is turned into Kanha's voice.
+- **We do not record or store your voice.** Audio is processed in real time only for the duration of the call.
+- We keep a short record of each call — its start time, length, the minutes used and its technical cost — for billing and to keep the service running. We do not keep the conversation itself on our servers.
+- The microphone is used **only** while a live talk is on and only after you allow the microphone permission. You can turn it off anytime in your phone's settings.
+
+### c) Typed messages ("Likho")
+- What you type is sent to our server to create Kanha's reply. The conversation history is kept **on your phone**; our server keeps only a count of messages used (for free limits), not the messages.
+
+### d) Information collected automatically
+| What | Why |
+|---|---|
+| **A device identifier** (a random ID created by the app, and a one-way hash of your device's ID) | To keep your account on this phone and to give the free first-time minutes only once per phone (to prevent misuse). |
+| **App usage events** (e.g. screen opened, seva completed, live talk started, plan started, darshan shared) via **Firebase Analytics** | To understand which features are used and improve the app. These events do not include your name, phone number, voice or what you said. |
+| **Crash reports and diagnostic logs** via **Firebase Crashlytics** | To find and fix crashes. |
+| **Basic technical data** (app version, phone model, Android version, IP address as part of normal internet traffic) | To deliver the service securely and fix problems. |
+
+### e) Payments
+- Payments (the monthly plan and Dukaan orders) are processed by **Razorpay** (and/or **Google Play Billing**, where applicable). We **do not** see or store your card, UPI or bank details. We receive only the payment status, amount and a payment/subscription reference.
+
+### f) Photos
+- **Darshan card:** when you save or share a darshan card, the picture is created on your phone and saved to your gallery or handed to the app you choose (e.g. WhatsApp). It is not uploaded to us.
+- **Gallery access** is used only when you choose to save a darshan card (on older Android versions this needs storage permission).
+
+### g) Notifications and alarm
+- Seva reminders, the seva pran reminders and Kanha's alarm are scheduled **on your phone**. We use notification and exact-alarm permissions only for these.
+
+We do **not** collect your precise location, contacts, call logs or SMS.
+
+---
+
+## 2. How we use information
+- To provide the app: live talk, Likho, seva, shringar, aarti, darshan, alarm, reminders, Dukaan orders and plans.
+- To personalise Kanha's words (your name, adult/child profile, language).
+- To manage your free minutes, plan minutes, billing and orders.
+- To keep children safe (PIN on payments, daily talk limit, no live talk at night for child profiles).
+- To keep the service secure, prevent misuse and fix problems.
+- To understand usage in aggregate and improve the app.
+
+We do **not** use your information for advertising, and the app shows no ads.
+
+---
+
+## 3. Service providers who process data for us
+We share information only with trusted providers who help us run the app, only for that purpose, and under their own privacy and security commitments:
+
+| Provider | What they do |
+|---|---|
+| **Google Cloud / Firebase** (Firestore, Cloud Storage, Analytics, Crashlytics) | Hosting our database and files; usage analytics; crash reports |
+| **Render** | Hosting our server |
+| **LiveKit** | Carrying the live voice call in real time, and some AI processing |
+| **Sarvam AI**, **Deepgram** (via LiveKit) | Turning your speech into text during a live talk |
+| **Anthropic (Claude)**, **OpenAI** (via LiveKit, as a backup) | Writing Kanha's replies from the text of what you said |
+| **Inworld AI** | Creating Kanha's voice from his reply text |
+| **Razorpay**, **Google Play** | Processing payments |
+| Delivery / courier partners | Delivering Dukaan orders (name, phone, address only) |
+
+Some of these providers may process data on servers outside India. We use providers that apply appropriate safeguards. We may also disclose information if required by law, or to protect the rights and safety of our users or others.
+
+---
+
+## 4. Children
+Talking Krishna is made for the whole family, including children using it **with a parent or guardian**. A parent can create a child ("Bachcha") profile, and for child profiles:
+- payments need the parent's **PIN**,
+- there is a **daily live-talk time limit**,
+- live talk is **switched off at night**,
+- Kanha is instructed to talk to children kindly, simply and safely, and never asks them for personal details.
+
+We do not knowingly collect personal information from a child without a parent's involvement. If you believe a child has given us information without a parent's consent, contact us and we will delete it.
+
+---
+
+## 5. AI and its limits
+Kanha in this app is an **AI-powered devotional companion**. His replies are created by artificial intelligence and may sometimes be inaccurate. He is not a substitute for a guru, priest, doctor, counsellor or any professional advice. Please do not share sensitive personal information (such as bank details, passwords or health records) during a talk.
+
+---
+
+## 6. How long we keep data
+| Data | Kept for |
+|---|---|
+| Voice audio of live talks | **Not stored** (real-time only) |
+| Likho messages | Not stored on our server (kept on your phone until you clear the app's data) |
+| Account and profile data | While your account is active; deleted on request |
+| Call records (time, length, minutes, cost) and payment records | As long as needed for billing and as required by tax/accounting law |
+| Order and delivery details | As long as needed for the order, returns and legal requirements |
+| Analytics and crash data | As per Firebase's retention settings (by default up to 14 months for analytics; crash data for a limited period) |
+
+---
+
+## 7. Your choices and rights
+- **Microphone, notifications, alarm, storage:** you can allow or revoke these anytime in your phone's Settings.
+- **Access and correction:** you can change your name and profiles in the app (Menu → Profiles).
+- **Delete your account and data:** write to us at [SUPPORT EMAIL] or on WhatsApp [WHATSAPP NUMBER] from your registered number with the subject "Delete my account". We will delete your account and personal data within **30 days**, except records we must keep by law (for example, payment and tax records).
+- **Stop the monthly plan:** Menu → Minutes → "Autopay band karna hai?" (or from your UPI/Google Play subscriptions).
+- Under India's **Digital Personal Data Protection Act, 2023**, you may have the right to access, correct and erase your personal data, to withdraw consent, and to nominate someone to exercise these rights. Contact us to use them.
+
+---
+
+## 8. Security
+We use encryption in transit (HTTPS / secure WebRTC), store PINs only as one-way hashes, keep secret keys only on our servers, and limit who can access data. No method of transmission or storage is completely secure, but we work hard to protect your information.
+
+---
+
+## 9. Changes to this policy
+We may update this policy as the app changes. We will change the "Effective date" above, and for important changes we will tell you in the app.
+
+---
+
+## 10. Contact and Grievance Officer
+For questions, requests or complaints about your data:
+
+**Grievance Officer:** [NAME]
+**Noble Mace Ventures**, Alwar, Rajasthan, India
+**Email:** [SUPPORT EMAIL]
+**WhatsApp:** [WHATSAPP NUMBER]
+
+We will acknowledge your message within 48 hours and try to resolve it within 30 days.
+
+*Jai Shri Krishna 🙏*
